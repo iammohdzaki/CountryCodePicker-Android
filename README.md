@@ -3,7 +3,7 @@
 
 # CountryCodePicker-Android
 
-<img src="https://github.com/iammohdzaki/CountryCodePicker-Android/blob/master/Screenshot_2021-03-21-22-36-42-267_com.bequest.jpg" alt="KnotDialog" width="250" height="450"/>
+<img src="https://github.com/iammohdzaki/CountryCodePicker-Android/blob/master/Screenshot_2021-03-21-22-36-42-267_com.bequest.jpg" alt="KnotDialog" width="250" height="550"/>
 
 To get a Git project into your build:
 
