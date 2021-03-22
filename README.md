@@ -1,5 +1,4 @@
 [![](https://jitpack.io/v/iammohdzaki/CountryCodePicker-Android.svg)](https://jitpack.io/#iammohdzaki/CountryCodePicker-Android)
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Knot%20File%20Chooser-green.svg?style=flat )]( https://android-arsenal.com/details/1/8056 )
 
 # CountryCodePicker-Android
 
